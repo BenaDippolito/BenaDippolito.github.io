@@ -28,6 +28,18 @@ Then open `http://localhost:8000` in a browser. Opening `index.html` directly al
 - Visual styling and responsive behavior are in `styles.css`.
 - Mobile navigation behavior is in `script.js`.
 
+## Change log requirement
+
+Whenever a file in the `BenaDippolito.github.io` folder is added, edited, or removed, update this README in the same change. Add a concise entry to the change log below describing what changed and why. Keep the entry factual and include the affected filename when useful.
+
+## Change log
+
+### 2026-09-22
+
+- Added the responsive portfolio landing page and its supporting styles and mobile navigation in `index.html`, `styles.css`, and `script.js`.
+- Added accessible footer links for GitHub and LinkedIn, including Font Awesome brand icons in `index.html`.
+- Added site maintenance, local preview, editing, and GitHub Pages deployment instructions to this README.
+
 ## Deploy with GitHub Pages
 
 1. Push the contents of this directory to the `main` branch of `BenaDippolito.github.io`.
