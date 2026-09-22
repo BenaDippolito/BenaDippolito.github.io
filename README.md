@@ -1,6 +1,6 @@
 # BenaDippolito.github.io
 
-Personal portfolio site for Bena Dippolito, focused on Python, cybersecurity, and governance, risk, and compliance (GRC).
+Personal portfolio site for Benjamin Dippolito, 21 year Army retiree and inspiring GRC Engineer.
 
 ## Built with
 
