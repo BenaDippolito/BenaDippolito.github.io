@@ -1,2 +1,38 @@
 # BenaDippolito.github.io
-Personal GitHub page
+
+Personal portfolio site for Bena Dippolito, focused on Python, cybersecurity, and governance, risk, and compliance (GRC).
+
+## Built with
+
+- Semantic HTML
+- CSS with responsive layouts and reduced-motion support
+- Small vanilla JavaScript module for the accessible mobile menu
+- GitHub Pages for hosting
+
+## Run locally
+
+This is a static site and has no build step or package dependencies. From this directory, start any local static server available on your machine, for example:
+
+```powershell
+python -m http.server 8000
+```
+
+Then open `http://localhost:8000` in a browser. Opening `index.html` directly also works, but a local server is closer to the GitHub Pages environment.
+
+## Updating the site
+
+- Personal introduction and profile copy live in `index.html`.
+- Project cards are in the `project-grid` section of `index.html`. Replace roadmap entries with completed projects only when source links, descriptions, and technologies are verified.
+- Skill groups and social links are also maintained in `index.html`.
+- Replace or add images in the repository and include descriptive `alt` text for every meaningful image. The current design does not require image assets.
+- Visual styling and responsive behavior are in `styles.css`.
+- Mobile navigation behavior is in `script.js`.
+
+## Deploy with GitHub Pages
+
+1. Push the contents of this directory to the `main` branch of `BenaDippolito.github.io`.
+2. In the repository, open **Settings > Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**, select `main` and the `/ (root)` folder, then save.
+4. GitHub Pages will publish the site at `https://benadippolito.github.io/` after the deployment completes.
+
+There are currently no build, test, lint, or formatting commands configured for this static repository.
