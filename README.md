@@ -34,6 +34,11 @@ Whenever a file in the `BenaDippolito.github.io` folder is added, edited, or rem
 
 ## Change log
 
+### 2026-10-01
+
+- Added `projects/11-iso-27701-iso-27001-lead-auditor-notes.md` as a structured scaffold page for ISO 27701 and ISO 27001 Lead Auditor Course notes, with clearly marked placeholders for later Word-document content import.
+- Added `projects/README.md` to describe the new course-notes page, the planned update workflow from the forthcoming Word source, and viewing instructions.
+
 ### 2026-09-22
 
 - Added the responsive portfolio landing page and its supporting styles and mobile navigation in `index.html`, `styles.css`, and `script.js`.
